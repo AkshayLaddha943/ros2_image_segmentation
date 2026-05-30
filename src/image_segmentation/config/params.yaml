@@ -1,0 +1,7 @@
+image_segmentation_pytorch:
+  ros__parameters:
+    weights_path: "/home/akshladdhs/course_ws/src/image_segmentation/models/LRASPP MobileNetV3.pth"
+    num_classes: 27          # or whatever you trained
+    in_width: 968
+    in_height: 608
+    use_imagenet_norm: true

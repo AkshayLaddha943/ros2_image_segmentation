@@ -1,0 +1,16 @@
+build/
+install/
+log/
+
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+
+# colcon
+.colcon/
+
+# ROS
+*.log
+*.db3
+bags/

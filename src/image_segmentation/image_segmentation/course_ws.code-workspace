@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../acdc"
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/akshladdhs/course_ws/install/image_segmentation/lib/python3.12/site-packages",
+			"/opt/ros/jazzy/lib/python3.12/site-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/akshladdhs/course_ws/install/image_segmentation/lib/python3.12/site-packages",
+			"/opt/ros/jazzy/lib/python3.12/site-packages"
+		],
+		"ROS2.distro": "jazzy"
+	}
+}
